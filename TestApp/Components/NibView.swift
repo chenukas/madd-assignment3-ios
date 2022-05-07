@@ -2,7 +2,6 @@
 //  NibView.swift
 //  Assignment03
 //
-//  Created by Ravidu Dilhara on 2022-04-29.
 //
 
 
